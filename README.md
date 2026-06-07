@@ -131,16 +131,16 @@ SnapBuy demonstrates the development of a modern e-commerce frontend using React
 ##Screenshots
 
 ###Main Interface
-![Main Interface](../SnapBuy/Screenshot/Main Interface SnapBuy.png)
+![Main Interface](Screenshot/Main Interface SnapBuy.png)
 
 ###Exclusive Offers and Deals
-![Exclusive Offers and Deals](../SnapBuy/Screenshot/Exclusive Offers and Deals SnapBuy.png)
+![Exclusive Offers and Deals](Screenshot/Exclusive Offers and Deals SnapBuy.png)
 
 ###Products
-![Products](../SnapBuy/Screenshot/Products SnapBuy.png)
+![Products](Screenshot/Products SnapBuy.png)
 
 ###Cart
-![Cart](../SnapBuy/Screenshot/Cart SnapBuy.png)
+![Cart](Screenshot/Cart SnapBuy.png)
 
 ###About
-![About](../SnapBuy/Screenshot/About SnapBuy.png)
+![About](Screenshot/About SnapBuy.png)
