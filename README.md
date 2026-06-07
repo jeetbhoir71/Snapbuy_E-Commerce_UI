@@ -123,30 +123,24 @@ Through this project, the following concepts were practiced:
 * Git and GitHub Workflow
 * Frontend Development Best Practices
 
+## Here are some images :
+
+### Main Page
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/1c2b76864b859ea758ac7bfd01af8fe20b578218/Main%20Interface%20SnapBuy.png)
+
+### Exclusive Offers and Deals
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/e245afcf0352b122f4369992cd153a93321da412/Exclusive%20Offers%20and%20Deals%20SnapBuy.png)
+
+### Products Page
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/e245afcf0352b122f4369992cd153a93321da412/Products%20SnapBuy.png)
+
+### Cart Page
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/e245afcf0352b122f4369992cd153a93321da412/Cart%20SnapBuy.png)
+
+### About Page
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/e245afcf0352b122f4369992cd153a93321da412/About%20SnapBuy.png)
+
 ## Conclusion
 
 SnapBuy demonstrates the development of a modern e-commerce frontend using React.js. The project successfully implements a responsive and visually appealing interface while maintaining clean code structure and usability. It serves as a strong foundation for a full-stack e-commerce platform and showcases practical frontend development skills.
 
-![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/1c2b76864b859ea758ac7bfd01af8fe20b578218/Main%20Interface%20SnapBuy.png)
-
-
-
-
-
-
-##Screenshots
-
-###Main Interface
-![Main Interface](../SnapBuy/Screenshot/Main%20Interface%20SnapBuy.png)
-
-###Exclusive Offers and Deals
-![Exclusive Offers and Deals](../SnapBuy/Screenshot/Exclusive%20Offers%20and%20Deals%20SnapBuy.png)
-
-###Products
-![Products](../SnapBuy/Screenshot/Products%20SnapBuy.png)
-
-###Cart
-![Cart](../SnapBuy/Screenshot/Cart%20SnapBuy.png)
-
-###About
-![About](../SnapBuy/Screenshot/About%20SnapBuy.png)
