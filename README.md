@@ -128,19 +128,19 @@ Through this project, the following concepts were practiced:
 SnapBuy demonstrates the development of a modern e-commerce frontend using React.js. The project successfully implements a responsive and visually appealing interface while maintaining clean code structure and usability. It serves as a strong foundation for a full-stack e-commerce platform and showcases practical frontend development skills.
 
 
-## Screenshots
+## Screenshot
 
 ### Main Interface
-![Main Interface](Screenshots/Main Interface SnapBuy.png)
+![Main Interface](Screenshot/Main Interface SnapBuy.png)
 
 ### Exclusive Offers and Deals
-![Exclusive Offers and Deals](Screenshots/Exclusive Offers and Deals SnapBuy.png)
+![Exclusive Offers and Deals](Screenshot/Exclusive Offers and Deals SnapBuy.png)
 
 ### Products
-![Products](Screenshots/Products SnapBuy.png)
+![Products](Screenshot/Products SnapBuy.png)
 
 ### Cart
-![Cart](Screenshots/Cart SnapBuy.png)
+![Cart](Screenshot/Cart SnapBuy.png)
 
 ### About
-![About](Screenshots/About SnapBuy.png)
+![About](Screenshot/About SnapBuy.png)
