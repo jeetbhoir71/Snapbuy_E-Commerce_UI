@@ -127,6 +127,12 @@ Through this project, the following concepts were practiced:
 
 SnapBuy demonstrates the development of a modern e-commerce frontend using React.js. The project successfully implements a responsive and visually appealing interface while maintaining clean code structure and usability. It serves as a strong foundation for a full-stack e-commerce platform and showcases practical frontend development skills.
 
+![image alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/1c2b76864b859ea758ac7bfd01af8fe20b578218/Main%20Interface%20SnapBuy.png)
+
+
+
+
+
 
 ##Screenshots
 
