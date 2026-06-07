@@ -1,0 +1,85 @@
+.login-main {
+  flex: 1;
+  background-color: #051F20;
+  padding: 20px 40px 40px;
+  min-height: calc(100vh - 80px);
+}
+
+.login-form-container {
+  background-color: #092420;
+  border: 1px solid #1e1e1e;
+  border-radius: 10px;
+  padding: 50px 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.login-field {
+  margin-bottom: 32px;
+}
+
+.login-label {
+  display: block;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.login-input {
+  display: block;
+  width: 45%;
+  max-width: 520px;
+  min-width: 280px;
+  padding: 18px 16px;
+  background-color: var(--input-bg);
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.login-input::placeholder {
+  color: #999;
+}
+
+.login-textarea {
+  display: block;
+  width: 45%;
+  max-width: 520px;
+  min-width: 280px;
+  padding: 16px;
+  background-color: var(--input-bg);
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+  resize: vertical;
+  min-height: 130px;
+}
+
+.login-textarea::placeholder {
+  color: #999;
+}
+
+@media (max-width: 768px) {
+  .login-main {
+    padding: 20px;
+  }
+
+  .login-form-container {
+    padding: 32px 20px;
+    min-height: unset;
+  }
+
+  .login-input,
+  .login-textarea {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .login-label {
+    font-size: 1.1rem;
+  }
+}
