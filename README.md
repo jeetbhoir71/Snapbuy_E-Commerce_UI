@@ -194,22 +194,24 @@ Through the development of SnapBuy, the following concepts were practiced:
 
 SnapBuy is a modern e-commerce frontend project that demonstrates practical implementation of React.js, responsive web design, and component-based development. The project successfully combines customer shopping features and seller product listing functionality into a clean, scalable, and visually appealing marketplace interface while following modern frontend development standards.
 
-### Main Interface 
+## Here are some images of Interfaces :
+
+## Main Interface 
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/Main%20Interface%20SnapBuy.png)
 
-### Products Page 
+## Products Page 
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/Products.png)
 
-### Cart Page 
+## Cart Page 
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/Cart%20SnapBuy.png)
 
-### About Page
+## About Page
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/About%20SnapBuy.png)
 
-### Exclusive Offers and Deals
+## Exclusive Offers and Deals
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/Exclusive%20Offers%20and%20Deals%20SnapBuy.png)
 
-### Seller Page 
+## Seller Page 
 ![Image Alt](https://github.com/jeetbhoir71/Snapbuy_E-Commerce_UI/blob/94b064f8ca78a377b5d62134c4264b08c69dc399/Seller%20Page.png)
 
 
