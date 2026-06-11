@@ -2,9 +2,9 @@
 
 ## Overview
 
-SnapBuy is a modern e-commerce web application frontend developed using React.js and CSS. The project is designed to provide a clean, responsive, and user-friendly online shopping experience with a premium dark-themed interface. It demonstrates modern frontend development practices through reusable React components, responsive layouts, intuitive navigation, and a seller product listing interface.
+SnapBuy is a modern e-commerce web application frontend developed using React.js and CSS. The project is designed to provide a clean, responsive, and user-friendly online shopping experience with a premium dark emerald-green themed interface. It demonstrates modern frontend development practices through reusable React components, responsive layouts, intuitive navigation, and a seller product listing system.
 
-The application showcases product browsing, promotional offers, shopping cart navigation, seller onboarding, and essential customer-focused features, making it a strong demonstration of modern e-commerce UI design.
+The application showcases a marketplace-style user interface where customers can browse products, explore offers, manage their shopping cart, and sellers can submit product details through a dedicated seller dashboard. SnapBuy serves as a practical implementation of modern frontend development and responsive web design principles.
 
 ---
 
@@ -18,16 +18,16 @@ The primary objective of SnapBuy is to design and develop a visually appealing a
 
 ### Customer Features
 
-* Modern dark-themed user interface
+* Modern dark emerald-green themed user interface
 * Fully responsive design for desktop, tablet, and mobile devices
 * Interactive navigation bar
 * Product browsing interface
 * Shopping cart page
 * Promotional banners and special offers
-* Featured products section
 * Clean and intuitive user experience
 * Login interface
 * About page with company information
+* Marketplace-style product display
 
 ### Seller Features
 
@@ -75,10 +75,10 @@ The primary objective of SnapBuy is to design and develop a visually appealing a
 The landing page contains:
 
 * Navigation Bar
-* Hero Banner
-* Exclusive Offers Section
-* Featured Products Section
-* Promotional Banners
+* Hero Section
+* Promotional Offers
+* Product Showcase
+* Featured Sections
 * Footer
 
 ### Products Page
@@ -132,75 +132,20 @@ Contains:
 
 ---
 
-## Promotional Highlights
-
-* 50% Off Summer Electronics Sale
-* New Arrivals Collection
-* Free Shipping on Orders Above ₹999
-* Easy Returns and Refunds
-* Featured Product Promotions
-
----
-
-## Project Architecture
-
-SnapBuy follows a component-based architecture where the application is divided into reusable and maintainable React components.
-
-### Frontend Flow
-
-Navbar
-↓
-Hero Section
-↓
-Offers Section
-↓
-Featured Products
-↓
-Seller Section
-↓
-Footer
-
-### Component Structure
-
-App
-│
-├── Navbar
-│
-├── Home
-│ ├── Hero Section
-│ ├── Offers Section
-│ ├── Featured Products
-│ └── Footer
-│
-├── Products
-│
-├── Cart
-│
-├── About
-│
-├── Login
-│
-└── Seller
-├── Product Name Input
-├── Price Input
-├── Description Input
-├── Image Upload
-└── Submit Product
-
----
-
 ## User Interface Design
 
 The website follows modern UI/UX principles and includes:
 
-* Premium dark theme
-* Modern typography
-* Responsive layouts
-* Clean spacing and alignment
+* Premium dark emerald-green theme
+* Consistent green accent color palette
+* Modern and clean typography
+* Responsive layouts for various screen sizes
+* Structured spacing and alignment
 * Minimalistic design approach
-* Smooth visual hierarchy
-* User-friendly navigation
-* Professional marketplace appearance
+* Professional e-commerce marketplace appearance
+* User-friendly navigation system
+* Interactive buttons and form elements
+* Seller-focused product listing interface
 
 ---
 
@@ -247,4 +192,4 @@ Through the development of SnapBuy, the following concepts were practiced:
 
 ## Conclusion
 
-SnapBuy is a modern e-commerce frontend project that demonstrates practical implementation of React.js, responsive web design, and component-based development. The project successfully combines customer shopping features and seller product listing functionality into a clean, scalable, and visually appealing marketplace interface.
+SnapBuy is a modern e-commerce frontend project that demonstrates practical implementation of React.js, responsive web design, and component-based development. The project successfully combines customer shopping features and seller product listing functionality into a clean, scalable, and visually appealing marketplace interface while following modern frontend development standards.
