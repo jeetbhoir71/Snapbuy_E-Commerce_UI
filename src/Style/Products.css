@@ -147,3 +147,29 @@
     grid-template-columns: 1fr;
   }
 }
+
+.products-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  gap: 16px;
+}
+
+.become-seller-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--accent);
+  color: var(--text-primary);
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 12px 20px;
+  border-radius: 8px;
+  white-space: nowrap;
+  transition: background-color 0.2s ease;
+}
+
+.become-seller-btn:hover {
+  background-color: var(--accent-hover);
+}

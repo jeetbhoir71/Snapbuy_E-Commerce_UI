@@ -5,6 +5,7 @@ import Products from './pages/Products.jsx'
 import Cart from './pages/Cart.jsx'
 import About from './pages/About.jsx'
 import Login from './pages/Login.jsx'
+import BecomeSeller from './Pages/BecomeSeller.jsx'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/cart" element={<Cart />} />
         <Route path="/about" element={<About />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/become-a-seller" element={<BecomeSeller />} />
       </Routes>
     </BrowserRouter>
   )
