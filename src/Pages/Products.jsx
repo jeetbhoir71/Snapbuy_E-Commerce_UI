@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import Navbar from '../components/Navbar.jsx'
-import ProductCard from '../components/ProductCard.jsx'
-import Footer from '../components/Footer.jsx'
+import Navbar from '../Components/Navbar.jsx'
+import ProductCard from '../Components/ProductCard.jsx'
+import Footer from '../Components/Footer.jsx'
 import '../Style/Products.css'
 
 import jbl from '../assets/JBL.png'
