@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import Navbar from '../components/Navbar.jsx'
-import Footer from '../components/Footer.jsx'
+import Navbar from '../Components/Navbar.jsx'
+import Footer from '../Components/Footer.jsx'
 import { supabase } from '../supabaseClient.js'
 import '../Style/BecomeSeller.css'
 
