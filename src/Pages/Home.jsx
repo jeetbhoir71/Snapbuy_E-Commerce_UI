@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from '../components/Navbar.jsx'
-import Hero from '../components/Hero.jsx'
-import Categories from '../components/Categories.jsx'
-import Testimonials from '../components/Testimonials.jsx'
-import Footer from '../components/Footer.jsx'
+import Navbar from '../Components/Navbar.jsx'
+import Hero from '../Components/Hero.jsx'
+import Categories from '../Components/Categories.jsx'
+import Testimonials from '../Components/Testimonials.jsx'
+import Footer from '../Components/Footer.jsx'
 import '../Style/Home.css'  
 
 function Home() {
